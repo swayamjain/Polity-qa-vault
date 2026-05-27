@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BookOpen, BarChart2, Calendar, ChevronDown } from 'lucide-react';
+import { BookOpen, BarChart2, Calendar, ChevronDown, History } from 'lucide-react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import data from './data.json';
@@ -9,15 +9,19 @@ const Sidebar = ({ activePaperId, onSelectPaper }) => {
   return (
     <div className="sidebar">
       <div className="logo-section">
-        <BookOpen className="logo-icon" size={32} />
-        <div className="logo-text">
-          <h1>Polity<br/>Q&A Vault</h1>
+        <div className="logo-main">
+          <BookOpen className="logo-icon" size={32} />
+          <div className="logo-text">
+            <h1><span className="accent-title">Polity Q&A</span><br/>Vault</h1>
+            <p className="logo-desc">Political Science II</p>
+          </div>
+        </div>
+        <div className="logo-author">
           <span className="logo-subtitle">CC<br/>Swayam<br/>Jain</span>
-          <p>Political Science II</p>
         </div>
       </div>
 
-      <div className="nav-section">
+      <div className="nav-section predictive-analysis-section">
         <div className="nav-item">
           <BarChart2 size={18} />
           <span>Predictive Analysis</span>
@@ -26,24 +30,34 @@ const Sidebar = ({ activePaperId, onSelectPaper }) => {
 
       <div className="nav-section">
         <div className="nav-title">Exam Papers</div>
-        {data.papers.map((paper) => (
-          <div 
-            key={paper.id}
-            className={`nav-item ${activePaperId === paper.id ? 'active' : ''}`}
-            onClick={() => onSelectPaper(paper.id)}
-          >
-            {paper.id === 'predictive-paper' ? (
-              <BookOpen size={18} />
-            ) : (
-              <Calendar size={18} />
-            )}
-            <span>{paper.title}</span>
-          </div>
-        ))}
+        <div className="nav-list">
+          {data.papers.map((paper) => {
+            const isPredictive = paper.id === 'predictive-paper';
+            const isWinter = paper.id.toLowerCase().includes('winter');
+            
+            return (
+              <div 
+                key={paper.id}
+                className={`nav-item ${activePaperId === paper.id ? 'active' : ''}`}
+                onClick={() => onSelectPaper(paper.id)}
+              >
+                {isPredictive ? (
+                  <BookOpen size={18} />
+                ) : isWinter ? (
+                  <History size={18} />
+                ) : (
+                  <Calendar size={18} />
+                )}
+                <span>{paper.title}</span>
+              </div>
+            );
+          })}
+        </div>
       </div>
     </div>
   );
 };
+
 
 // Accordion Component
 const Accordion = ({ title, content }) => {

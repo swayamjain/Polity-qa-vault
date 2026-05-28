@@ -404,7 +404,146 @@ Executives across the world are classified into several types based on how they 
 *   **Elected Executive:** When the executive head is elected by the people, either directly or indirectly, it is an elected executive. *Example: The President of India (indirectly elected) or the President of France (directly elected).*
 
 **Conclusion**
-The nature of the executive determines the character of the entire government. Whether it is a single powerful President or a responsible Parliamentary Cabinet, the primary goal of the executive remains the same: ensuring the smooth administration of the state and the welfare of its people.`}]},{id:`winter-2024`,title:`Winter 2024`,questions:[{title:`Q2. What is the role of Election Commission in India? Discuss composition of Election Commission of India.`,content:`### Introduction
+The nature of the executive determines the character of the entire government. Whether it is a single powerful President or a responsible Parliamentary Cabinet, the primary goal of the executive remains the same: ensuring the smooth administration of the state and the welfare of its people.`}]},{id:`winter-2024`,title:`Winter 2024`,questions:[{title:`Q1. Short Notes (5 marks each)`,content:``},{title:`(a) Meaning of Public Interest Litigation (PIL)`,content:`### Introduction
+Public Interest Litigation (PIL) refers to litigation undertaken to secure public interest and demonstrates the availability of justice to socially-disadvantaged parties. It was introduced by Justice P.N. Bhagwati in the Indian judicial system. The traditional rule of "Locus Standi" (meaning only the person whose rights are violated can approach the court) is relaxed in the case of a PIL. Under PIL, any public-spirited citizen or an organization can move the court for the enforcement of the rights of a person or group of persons who, because of their poverty, ignorance, or socially or economically disadvantaged position, are themselves unable to approach the court for the remedies.
+
+### Purpose and Scope
+The primary purpose of a PIL is to make the justice delivery system more accessible to the marginalized sections of society. It acts as an essential tool for social change and for maintaining the rule of law. It can be filed in the Supreme Court under Article 32, and in the High Courts under Article 226 of the Indian Constitution. The subjects of PILs are vast and cover matters of broad public concern, rather than private disputes.
+
+### Key Features of PIL
+- **Relaxation of Locus Standi:** A third party can file a petition on behalf of the aggrieved.
+- **Non-adversarial Nature:** Unlike traditional litigation where two parties fight against each other, a PIL is essentially a collaborative effort on the part of the petitioner, the state or public authority, and the court to secure observance of constitutional or legal rights.
+- **Epistolary Jurisdiction:** In its early days, even a letter or telegram addressed to the court was treated as a PIL.
+- **Appointment of Commissions:** The court can appoint fact-finding commissions to gather information on the issue raised.
+
+### Importance of PIL
+- **Protection of the Vulnerable:** It has helped in fighting against evils like bonded labor, child labor, and exploitation of women.
+- **Environmental Protection:** Many landmark environmental protection cases, such as the Taj Trapezium case, were initiated through PILs.
+- **Holding Government Accountable:** It ensures that the government and its agencies act responsibly and within the constitutional framework.
+- **Judicial Activism:** It allows the judiciary to take an active role in enforcing constitutional values and fundamental rights.
+
+### Limitations and Potential Misuse
+While PIL is a powerful tool, it has sometimes been criticized for judicial overreach, where courts interfere in executive and legislative domains. Additionally, there are instances of "Frivolous PILs" or "Private Interest Litigations" filed for personal gain, publicity, or political vendetta. To curb this, courts have laid down guidelines to ensure that PILs are entertained only for genuine public causes.`},{title:`(b) Methods of Legislature`,content:`### Introduction
+The legislature is the law-making organ of the government. Its primary function is to formulate the will of the state into laws and give it a legal character. The methods of the legislature refer to the systematic and procedural mechanisms through which a proposed law, known as a 'Bill', goes through various stages of deliberation, scrutiny, and voting before it is finally enacted as an Act or Law. 
+
+### The Legislative Process
+The process of law-making in a legislature is elaborate and designed to ensure that every proposal is thoroughly discussed and analyzed to prevent hasty or flawed legislation.
+
+**1. Introduction of the Bill (First Reading)**
+- This is the initial stage where a member of the legislature seeks the permission of the house to introduce the bill.
+- The member reads the title of the bill and states its objectives. 
+- Usually, there is no debate at this stage. If the house grants leave, the bill is published in the official gazette.
+
+**2. Second Reading (Detailed Scrutiny)**
+This is the most crucial and time-consuming stage where the bill undergoes detailed examination. It is divided into three sub-stages:
+- **Stage of General Discussion:** The principles and general provisions of the bill are discussed. The house may refer the bill to a Select Committee or circulate it for public opinion.
+- **Committee Stage:** A smaller group of members (the committee) examines the bill clause by clause in a less formal environment. They can invite experts, take evidence, and suggest amendments.
+- **Consideration Stage:** The committee submits its report back to the house. The house then considers the bill clause by clause. Each clause and every proposed amendment is discussed and voted upon.
+
+**3. Third Reading (Final Passage)**
+- At this stage, the debate is confined to the acceptance or rejection of the bill as a whole.
+- No substantial amendments are allowed at this stage. 
+- If the majority of members present and voting support the bill, it is considered passed by that house.
+
+### Approval by the Second Chamber
+- In a bicameral legislature (having two houses, like the Lok Sabha and Rajya Sabha in India), the bill passed by one house is transmitted to the other.
+- The second house goes through the same three readings. It may pass the bill, reject it, or suggest amendments. In case of a deadlock between the two houses, mechanisms like a joint sitting may be employed to resolve the issue.
+
+### Assent of the Executive Head
+- A bill passed by the legislature(s) cannot become a law until it receives the formal assent of the executive head (the President at the national level or the Governor at the state level).
+- The executive head may give assent, withhold assent, or return the bill for reconsideration (except in the case of Money Bills).
+- Once the assent is given, the bill officially becomes an Act and is placed on the statute book.`},{title:`(c) Importance of Political Parties`,content:`### Introduction
+A political party is an organized group of citizens who share similar political views and who act as a political unit to seek control of the government through democratic elections. In the modern democratic system, political parties are indispensable. They are the driving force of the democratic machinery, acting as a vital link between the government and the citizens.
+
+### Functions and Importance
+
+**1. Contesting Elections and Providing Choices**
+- Political parties nominate candidates to contest elections. This provides the electorate with a structured choice among different ideologies, policies, and leadership styles. Without parties, every candidate would be independent, leading to chaos and making it impossible to form a stable government with a coherent policy framework.
+
+**2. Formation of Government and Policy Making**
+- The party that wins the majority of seats in the legislature forms the government. The leaders of the party assume executive roles (like Prime Minister or Ministers).
+- The ruling party translates its election manifesto into public policies and laws. It provides the necessary leadership and direction to the administrative machinery of the state.
+
+**3. Role of the Opposition**
+- The parties that do not secure a majority form the opposition. The opposition plays a crucial role in a democracy by constantly questioning, criticizing, and scrutinizing the actions of the ruling government.
+- It prevents the government from becoming dictatorial or complacent. It exposes failures and offers alternative policies to the public.
+
+**4. Shaping Public Opinion**
+- Political parties play a massive role in shaping and organizing public opinion. They highlight important national and local issues, simplify complex political debates, and educate the masses through campaigns, rallies, and media debates.
+- They help in the political socialization of citizens, making them aware of their rights and duties.
+
+**5. Acting as a Link Between Citizens and Government**
+- Parties provide ordinary citizens with access to government machinery and welfare schemes. Local party leaders are often more accessible to the common man than government officials.
+- They aggregate the various demands and interests of different social groups and present them to the government in the form of actionable policies.
+
+### Ensuring Political Stability
+By organizing individuals into large cohesive groups, political parties prevent the fragmentation of society into thousands of tiny factions. They build consensus and provide a stable foundation for the functioning of the state. Even during a crisis or transition of power, the party system ensures a peaceful and orderly transfer of authority.`},{title:`(d) Types of Executive`,content:`### Introduction
+The executive is the second organ of the government, primarily responsible for the implementation of laws enacted by the legislature and the administration of state affairs. While the legislature makes the laws, the executive breathes life into them. The nature and structure of the executive vary significantly across different political systems. 
+
+### Major Types of Executive
+
+**1. Real and Nominal Executive**
+- **Nominal Executive:** Also known as the titular executive, this is a head of state who holds ceremonial powers but does not exercise real political authority. They act on the advice of the real executive. Examples include the President of India and the British Monarch.
+- **Real Executive:** This is the body or individual that actually exercises governmental power and makes key political decisions. In a parliamentary system, the Prime Minister and the Council of Ministers constitute the real executive.
+
+**2. Single and Plural Executive**
+- **Single Executive:** In this system, the ultimate executive authority is vested in a single individual. The best example is the President of the United States, who is the sole head of the executive branch. This system ensures quick decision-making and clear accountability.
+- **Plural Executive:** Here, the executive power is shared equally among a group of individuals. A classic example is the Swiss Federal Council, which consists of seven members who collectively exercise executive authority. This prevents the concentration of power and ensures diverse representation.
+
+**3. Parliamentary and Presidential Executive**
+- **Parliamentary Executive:** In this system, the executive is derived from and responsible to the legislature. The Prime Minister is the head of government and must maintain the support of the majority in the legislature. If the legislature passes a vote of no confidence, the executive must resign. (e.g., India, UK).
+- **Presidential Executive:** In this system, the executive is completely separate from the legislature. The President is directly or indirectly elected by the people for a fixed term and is not accountable to the legislature for their day-to-day actions. The President cannot be easily removed by the legislature except through impeachment. (e.g., USA).
+
+**4. Political and Permanent Executive**
+- **Political Executive:** This comprises the elected representatives (Ministers) who hold office for a specific term (usually 5 years) and are responsible for framing policies. They change when the government changes.
+- **Permanent Executive:** Also known as the bureaucracy or civil service, this consists of appointed career officials who remain in office continuously until retirement. They possess specialized knowledge and assist the political executive in formulating and implementing policies. They are politically neutral.`},{title:`(e) Judicial Review`,content:`### Introduction
+Judicial review is a fundamental constitutional concept that refers to the power of the judiciary to examine the actions of the legislative, executive, and administrative arms of the government and to determine whether such actions are consistent with the constitution. If the judiciary finds that a law or executive order violates the provisions of the constitution, it has the power to declare it null, void, and unconstitutional. 
+
+### Origin and Basis
+The doctrine of judicial review originated and developed in the United States. It was firmly established by the US Supreme Court in the historic case of *Marbury v. Madison (1803)* under Chief Justice John Marshall. In India, the power of judicial review is explicitly and implicitly enshrined in the Constitution, particularly in Articles 13, 32, 131, 136, 143, 226, and 246. 
+
+### Scope and Application
+The scope of judicial review encompasses three main areas:
+1. **Review of Legislative Actions:** The courts can examine laws passed by the Parliament or State Legislatures to ensure they do not violate fundamental rights or overstep legislative competence.
+2. **Review of Executive Actions:** The courts can scrutinize administrative orders, policies, and actions of the government and public authorities to ensure they are lawful and not arbitrary.
+3. **Review of Judicial Decisions:** Higher courts have the power to review judgments of lower courts, and the Supreme Court can even review its own past judgments to correct errors.
+
+### "Procedure Established by Law" vs. "Due Process of Law"
+- In the US, judicial review is based on the "Due Process of Law," which allows courts to examine not only if a law was passed correctly but also if the law itself is fair, just, and reasonable.
+- In India, the Constitution initially favored "Procedure Established by Law," meaning courts could only check if the legislature followed the correct procedure. However, post the *Maneka Gandhi case (1978)*, the Indian Supreme Court has essentially read "due process" into Article 21, significantly widening the scope of judicial review in India to check for fairness and reasonableness.
+
+### Importance of Judicial Review
+- **Upholding Constitutional Supremacy:** It ensures that the Constitution remains the supreme law of the land and prevents the legislature from altering its basic structure.
+- **Protection of Fundamental Rights:** It acts as a shield for citizens against arbitrary state action, safeguarding their liberties.
+- **Maintaining Federal Balance:** It helps resolve disputes between the central government and state governments, ensuring neither oversteps its constitutional boundaries.
+- **Checking Despotism:** By striking down arbitrary laws, it prevents the tyranny of the majority and keeps the executive and legislative branches in check.`},{title:`(f) Merits of Federal Form of Government`,content:`### Introduction
+A federal form of government is a political system in which power is divided and shared between a central (national) authority and various constituent units (states, provinces, or regions). Both levels of government have their own distinct spheres of power derived directly from a written constitution, and neither is subordinate to the other in its respective domain. Notable examples include the USA, Canada, Australia, and India (which is quasi-federal).
+
+### Merits of Federalism
+
+**1. Suitable for Large and Diverse Countries**
+- Federalism is highly effective for countries with vast geographical areas and immense diversity in terms of culture, language, religion, and ethnicity. 
+- It allows for national unity on matters of common interest (like defense and foreign affairs) while granting regional autonomy to accommodate local differences and preserve cultural identities.
+
+**2. Division of Workload and Efficiency**
+- By dividing powers between the center and the states, federalism prevents the central government from being overwhelmed by administrative burdens.
+- The central government can focus on issues of national and international importance, while state governments can manage local issues such as agriculture, police, and public health more efficiently.
+
+**3. Better Handling of Local Problems**
+- Local governments possess a better understanding of local problems, resources, and the specific needs of their people compared to a distant central authority. 
+- A federal structure allows state governments to tailor their policies and solutions to suit the unique conditions of their respective regions, leading to more responsive governance.
+
+**4. Prevention of Despotism and Centralization**
+- Federalism acts as an inherent check against the concentration of absolute power in the hands of a single central authority. 
+- By distributing power and creating autonomous regional governments, it prevents the rise of dictatorship and ensures a more democratic distribution of political authority.
+
+**5. Laboratories of Democracy (Experimentation)**
+- Federalism allows states to act as "laboratories" for policy experimentation. A state can implement a novel social or economic program without risking the entire nation.
+- If the experiment is successful, other states or the central government can adopt it; if it fails, the negative consequences are contained within that specific state.
+
+**6. Increased Political Participation**
+- By creating multiple levels of government, federalism provides more opportunities for citizens to participate in the political process and run for office at local, state, and national levels.
+- It brings government closer to the people, fostering a stronger sense of civic engagement and political awareness among the masses.`},{title:`Q2. What is the role of Election Commission in India? Discuss composition of Election Commission of India.`,content:`### Introduction
 The Election Commission of India (ECI) is a permanent and independent constitutional body established to ensure free and fair elections in the country. Created under Article 324 of the Constitution on January 25, 1950 (celebrated as National Voters' Day), it is the backbone of India's democratic framework. It oversees the entire election process for the Parliament, State Legislatures, and the offices of the President and Vice-President.
 
 ### Role and Functions of the Election Commission
@@ -670,7 +809,317 @@ The judiciary is independent, but not entirely unchecked.
 - **Constitutional Amendments:** If the Parliament disagrees with a judicial interpretation, it can pass a Constitutional Amendment to alter the law, provided it doesn't violate the basic structure.
 
 ### Conclusion
-The Indian Constitution does not embrace the rigid separation of powers found in the USA. Instead, it relies on a delicate balance of power. The system of checks and balances ensures that the legislature, executive, and judiciary function harmoniously within their respective spheres, preventing the concentration of power and safeguarding the democratic framework of the nation.`}]},{id:`summer-2024`,title:`Summer 2024`,questions:[]},{id:`summer-2025`,title:`Summer 2025`,questions:[{title:`Q1. Short Notes`,content:``},{title:`(a) Judicial Activism`,content:`**Introduction**
+The Indian Constitution does not embrace the rigid separation of powers found in the USA. Instead, it relies on a delicate balance of power. The system of checks and balances ensures that the legislature, executive, and judiciary function harmoniously within their respective spheres, preventing the concentration of power and safeguarding the democratic framework of the nation.`}]},{id:`summer-2024`,title:`Summer 2024`,questions:[{title:`Q1. Short Notes`,content:``},{title:`(a) Judicial Review`,content:`### Meaning and Introduction
+Judicial review is the power of the judiciary to examine the constitutionality of legislative enactments and executive orders of both the central and state governments. If, on examination, they are found to be violative of the constitution, they can be declared as illegal, unconstitutional, and invalid by the judiciary. It serves as a mechanism to ensure that no government organ exceeds its prescribed boundaries.
+
+### Origin and Concept
+The concept originated in the United States and was famously established in the landmark case of *Marbury v. Madison* (1803) by Chief Justice John Marshall. While the US Constitution does not explicitly mention it, it has become a cornerstone of American jurisprudence. In contrast, constitutions like that of India explicitly provide for judicial review under various articles (e.g., Article 13, 32, 226). 
+
+### Essential Features
+* **Supremacy of the Constitution**: It establishes that the constitution is the supreme law of the land, and any law contrary to it is null and void.
+* **Protection of Rights**: It is a critical tool for safeguarding the fundamental rights of citizens against arbitrary state action.
+* **Federal Balance**: It helps maintain the balance of power between the central government and state/provincial governments in a federal system.
+* **Scope**: It applies to both legislative acts and administrative decisions.
+
+### Importance in Democracy
+Judicial review is indispensable for upholding the rule of law. It acts as a powerful check against the tyranny of the majority in the legislature. By reviewing executive actions, it prevents bureaucratic overreach. It ensures that the government functions strictly according to constitutional provisions, thereby fostering democratic stability and public trust in the legal system.
+
+### Limitations and Criticisms
+Despite its importance, judicial review is sometimes criticized for leading to "judicial overreach" or "judicial activism," where unelected judges may substitute their policy preferences for those of elected legislators. It can also lead to delays in the implementation of public policies. However, when exercised with self-restraint, it remains a vital democratic safeguard.`},{title:`(b) Difference between federal government and confederation`,content:`### Introduction
+Both federal governments and confederations involve a union of multiple states or constituent units. However, they differ fundamentally in terms of power distribution, sovereignty, and the nature of the relationship between the central authority and the constituent units. 
+
+### Concept of Federal Government
+A federal government is a system where power is divided between a central national government and local state governments by a written constitution. Both levels of government have their own spheres of jurisdiction and operate directly upon the citizens. Sovereignty is shared.
+* **Examples**: The United States, India, Canada, and Australia.
+
+### Concept of Confederation
+A confederation is a loose association of sovereign states that come together for a common purpose, such as defense, trade, or foreign policy. In a confederation, the central authority is typically weak and derives its power solely from the constituent states. The states retain their ultimate sovereignty.
+* **Examples**: The European Union, the Articles of Confederation (early US history), and the former Commonwealth of Independent States (CIS).
+
+### Key Differences
+
+* **Distribution of Power**: In a federation, powers are constitutionally divided and the central government usually has significant authority. In a confederation, the central authority only has the powers expressly delegated to it by the states, which retain the bulk of the power.
+* **Sovereignty**: Sovereignty in a federation is shared or resides with the national entity as a whole. In a confederation, sovereignty rests entirely with the individual member states.
+* **Right to Secede**: Constituent units in a true federation generally do not have the constitutional right to unilaterally secede from the union. In a confederation, member states typically retain the legal right to leave the union at their discretion.
+* **Direct Relationship with Citizens**: A federal government can directly tax and make laws applicable to individuals. A confederation usually interacts only with the member states, not directly with the individual citizens.
+* **Nature of the Union**: A federation creates a new, distinct sovereign nation. A confederation is essentially an international treaty or alliance among independent nations.
+
+### Conclusion
+While both models seek to balance unity with regional autonomy, a federation leans towards a stronger, unified nation-state, whereas a confederation prioritizes the absolute sovereignty of its member states over the central union.`},{title:`(c) Meaning of Rule of Law`,content:`### Introduction
+The "Rule of Law" is a foundational principle in modern political science and jurisprudence, signifying that a society is governed by established laws rather than the arbitrary will of individuals or rulers. It asserts that law is supreme and no one is above it.
+
+### A.V. Dicey's Concept
+The modern concept of the Rule of Law was systematically articulated by the British jurist A.V. Dicey in his 1885 book, "Introduction to the Study of the Law of the Constitution." Dicey outlined three primary pillars of the Rule of Law:
+
+1. **Supremacy of Law**: This principle means the absolute predominance of regular law as opposed to the influence of arbitrary power or wide discretionary power. No person can be punished or made to suffer in body or goods except for a distinct breach of law established in the ordinary legal manner before the ordinary courts of the land.
+2. **Equality before the Law**: This implies the equal subjection of all classes to the ordinary law of the land administered by the ordinary law courts. Whether a person is a prime minister, a police officer, or an ordinary citizen, they are all subject to the same laws and legal processes. There are no special courts for government officials.
+3. **Predominance of Legal Spirit**: Dicey argued that the rights of individuals (like personal liberty) are not granted by a written constitution but are the result of judicial decisions determining the rights of private persons in particular cases brought before the courts. 
+
+### Importance in Democracy
+The Rule of Law is the bedrock of democratic governance. 
+* It prevents autocracy and dictatorial regimes.
+* It guarantees fairness and predictability in human affairs.
+* It protects minority rights and individual liberties against state power.
+* It fosters a climate conducive to economic and social development by ensuring contracts and property rights are respected.
+
+### Exceptions and Limitations
+While the principle advocates equality, practical exceptions exist. For instance, heads of state (like Presidents and Governors) often enjoy legal immunity during their tenure. Foreign diplomats are granted diplomatic immunity under international law. Additionally, administrative tribunals handle specific disputes, which slightly deviates from Dicey's concept of "ordinary courts." Despite these exceptions, the core philosophy of legal supremacy remains intact.`},{title:`(d) Types of Political Parties`,content:`### Introduction
+Political parties are organized groups of individuals who share similar political views and seek to gain and maintain political power by contesting elections. They are the vehicles through which public opinion translates into public policy. Political parties can be classified based on various criteria, primarily their ideology and the party system they operate within.
+
+### Classification Based on Ideology
+Ideology is the most common basis for categorizing political parties. They generally fall on a political spectrum:
+
+* **Reactionary Parties**: These parties cling to traditional values and older systems, often seeking to return to a perceived "golden past." They resist progressive changes and advocate for historical socio-political structures.
+* **Conservative Parties**: Also known as right-wing parties, they prefer the status quo. They advocate for gradual, rather than radical, change. They generally support free-market capitalism, traditional values, and strong national defense. (e.g., the Republican Party in the US, the Conservative Party in the UK).
+* **Liberal Parties**: These centrist or center-left parties emphasize individual liberty, social justice, and equal opportunity. They advocate for moderate reforms and government intervention in the economy to protect vulnerable populations. (e.g., the Liberal Democrats in the UK).
+* **Radical Parties**: Also known as left-wing or progressive parties, they aim to fundamentally restructure the existing socio-economic order. They advocate for significant equality, extensive state intervention, and systemic reforms. (e.g., various Communist and Socialist parties).
+
+### Classification Based on Party Systems
+Parties are also classified by how they function within a nation's political framework:
+
+* **One-Party System**: Only one political party is legally allowed to hold power. All other parties are either outlawed or tightly controlled. (e.g., the Communist Party in China).
+* **Two-Party System**: Two major political parties dominate the political landscape. While third parties may exist, the two main parties secure the vast majority of votes and alternately hold power. (e.g., the US with Democrats and Republicans).
+* **Multi-Party System**: Three or more political parties have a realistic chance of gaining power, either independently or in a coalition. This system represents a wider array of views but can sometimes lead to unstable coalition governments. (e.g., India, Germany, Israel).
+
+### Conclusion
+The type of political parties active in a country significantly influences its democratic health, policy direction, and governance stability. They are essential for articulating citizen demands and organizing legislative majorities.`},{title:`(e) Electoral System`,content:`### Introduction
+An electoral system is a set of rules and mechanisms that determine how elections and referendums are conducted and how their results are calculated. It translates the votes cast in an election into seats won by parties and candidates. The choice of an electoral system is crucial as it deeply impacts the nature of governance, party systems, and political stability.
+
+### Key Types of Electoral Systems
+
+* **First-Past-The-Post (FPTP) / Plurality System**: This is the simplest system, where the candidate who receives more votes than any other candidate wins, even if it is not an absolute majority (more than 50%). It is used in countries like the UK, the US, and India (for Lok Sabha).
+  * *Merits*: Simple to understand, tends to produce clear majorities and stable governments, and creates a direct link between the representative and the constituency.
+  * *Demerits*: Can result in a disproportionate representation where the number of seats won doesn't match the popular vote percentage. Minorities might be underrepresented.
+
+* **Proportional Representation (PR)**: This system aims to ensure that the number of seats won by a political party is directly proportional to the number of votes it receives. If a party gets 30% of the vote, it gets 30% of the seats.
+  * *Merits*: Highly representative, ensures minority voices are heard, and prevents "wasted" votes.
+  * *Demerits*: Often leads to multi-party systems and coalition governments, which can be unstable. It can also weaken the link between a specific representative and a local constituency.
+
+* **Mixed Systems**: Some countries use a combination of FPTP and PR. For example, in Germany and New Zealand, voters cast two votes: one for a local constituency representative (FPTP) and one for a political party (PR). This attempts to capture the benefits of both systems—local representation and national proportionality.
+
+### Importance and Functions
+Electoral systems are the machinery of democracy. They perform several vital functions:
+* **Representation**: They ensure that the diverse interests of the population are represented in the legislature.
+* **Government Formation**: They determine the composition of the legislature, which in parliamentary systems directly decides the executive government.
+* **Legitimacy**: A fair and transparent electoral system confers legitimacy on the elected government, ensuring citizens accept the authority of the rulers.
+
+### Conclusion
+No single electoral system is perfect. The choice depends on a country's historical context, demographic diversity, and political priorities—whether they value highly stable governments or highly representative legislatures.`},{title:`(f) Public Policy Implementation`,content:`### Introduction
+Public policy implementation is the critical phase in the policy process where theoretical plans and legislative intentions are transformed into practical actions and tangible results. It is the action stage of policymaking. Without effective implementation, even the most brilliantly formulated policies remain mere declarations on paper.
+
+### Meaning and Scope
+Implementation involves mobilizing resources, organizing administrative structures, establishing procedures, and executing tasks to achieve the objectives specified in a policy document. It bridges the gap between policy formulation (decision-making) and policy evaluation (assessing outcomes). It involves translating goals into administrative routines and services delivered to citizens.
+
+### Key Actors Involved
+The process involves a multitude of actors operating at different levels:
+* **The Executive Branch**: The political executive (Ministers, the President) provides oversight and political backing.
+* **Bureaucracy and Civil Services**: Bureaucrats and administrative agencies are the primary implementers. They formulate detailed rules, manage budgets, and execute programs on the ground.
+* **Judiciary**: Courts play a role by interpreting policy, ensuring its legality, and occasionally directing implementation through judicial orders.
+* **Non-Governmental Actors**: NGOs, private sector partners, and civil society groups are increasingly involved in executing public-private partnerships and grassroots programs.
+
+### Challenges in Implementation
+Implementation is rarely straightforward and faces numerous hurdles:
+* **Resource Constraints**: Inadequate funding, understaffing, or lack of technical expertise can cripple policy execution.
+* **Administrative Inefficiency**: Red tape, bureaucratic inertia, and corruption can derail policy objectives.
+* **Lack of Clarity**: Ambiguous policy goals or conflicting guidelines confuse implementers and lead to inconsistent execution.
+* **Political Interference**: Frequent changes in political leadership or undue interference can disrupt long-term implementation plans.
+* **Target Group Resistance**: Policies may fail if the intended beneficiaries do not understand, accept, or cooperate with the program.
+
+### Importance for Governance
+Successful implementation is the ultimate test of government efficacy. It determines the credibility of the political system. When policies are implemented efficiently, it enhances public welfare, solves societal problems, and builds trust between the state and its citizens. Conversely, implementation failures lead to public cynicism and wasted resources.
+
+### Conclusion
+Policy implementation is a complex, dynamic, and highly political process. It requires clear communication, adequate resources, capable administrative machinery, and continuous monitoring to ensure that the initial policy goals are successfully realized in practice.`},{title:`Q2. Describe Meaning, Features, Merits and Demerits of Presidential form of government.`,content:`## Meaning
+A Presidential form of government is a democratic system where the executive branch is entirely separate from the legislative branch. The head of state is also the head of government, typically called the President. The President is elected independently of the legislature, often through a direct or semi-direct popular vote, and holds office for a fixed term. Crucially, the President and their cabinet are not members of the legislature and are not politically accountable to it; they cannot be removed by a legislative vote of no confidence (except through a rare and arduous impeachment process for high crimes). The United States of America is the prime example of this system.
+
+## Key Features
+
+*   **Separation of Powers**: The most defining characteristic is the strict separation of the executive, legislative, and judicial branches. Each branch operates independently with distinct powers and responsibilities.
+*   **Single Executive**: The President is both the nominal (ceremonial) and real executive head. All executive powers are vested directly in this individual.
+*   **Independent Election**: The President is elected by the people (directly or via an electoral college), independently of the legislature. Their mandate comes directly from the electorate.
+*   **Fixed Tenure**: The President serves a predetermined, fixed term in office. They cannot be dismissed by the legislature simply because they lose legislative support.
+*   **Non-Accountability to Legislature**: The President and their appointed cabinet ministers are not members of the legislature. They do not participate in legislative debates and are not collectively responsible to the parliament.
+*   **Checks and Balances**: To prevent any one branch from becoming too powerful, a system of checks and balances is embedded. For instance, the President can veto legislation, while the legislature must approve the budget and key presidential appointments.
+
+## Merits
+
+*   **Stable Government**: Because the executive has a fixed term and does not rely on a legislative majority to survive, the government is highly stable. It is free from the frequent collapses seen in volatile parliamentary systems.
+*   **Strong and Decisive Leadership**: With all executive power concentrated in one person, the President can act swiftly and decisively, especially in times of national crisis or emergency.
+*   **Expert Administration**: The President is free to appoint experts, specialists, and the most capable individuals to their cabinet, regardless of their political affiliation or whether they are elected politicians.
+*   **Continuous Policy Execution**: A fixed term allows the President to formulate and implement long-term policies without the constant fear of being ousted by a sudden vote of no confidence.
+*   **Protection of Liberty**: The strict separation of powers prevents the concentration of power in any single body, thereby acting as a safeguard against tyranny and protecting individual liberties.
+
+## Demerits
+
+*   **Danger of Autocracy**: The immense power concentrated in the hands of a single individual carries the risk of the President acting arbitrarily or leaning towards dictatorship, particularly if the checks and balances are weak.
+*   **Deadlock and Conflict**: Because the executive and legislative branches are independent, they can often be controlled by opposing political parties. This can lead to persistent gridlock, where neither branch can pass its agenda, paralyzing the government.
+*   **Rigid System**: The fixed tenure makes it very difficult to remove an unpopular or incompetent President before their term expires. Impeachment is a complex and rarely successful tool.
+*   **Lack of Direct Accountability**: The executive is not subject to daily questioning and direct accountability in the legislature, unlike in a parliamentary system where ministers must constantly defend their actions.
+*   **Spoils System**: In some presidential systems, a change in presidency can lead to a massive turnover in administrative personnel, as the incoming President rewards supporters with government jobs, potentially harming administrative efficiency.`},{title:`Q3. What are the functions of Judiciary? Explain essential conditions for the establishment of an independent judiciary in a democratic country.`,content:`## Functions of the Judiciary
+The judiciary is the branch of government responsible for interpreting the law, administering justice, and resolving disputes. It is the guardian of the constitution and individual rights.
+
+*   **Administration of Justice**: This is the primary function. Courts hear and decide cases involving civil disputes (between individuals) and criminal offenses (against the state). They determine facts, apply the law, and deliver judgments.
+*   **Interpretation and Application of Law**: Laws passed by legislatures are often general and sometimes ambiguous. The judiciary interprets these laws to determine their specific meaning and how they apply to particular situations.
+*   **Protection of Fundamental Rights**: The judiciary acts as the ultimate protector of the rights and liberties guaranteed to citizens by the constitution. It can issue writs or orders to prevent the state or individuals from violating these rights.
+*   **Guardian of the Constitution**: In countries with written constitutions, the judiciary has the power of "Judicial Review." It examines legislative acts and executive orders to ensure they align with the constitution. If they do not, the courts can strike them down as unconstitutional.
+*   **Resolving Federal Disputes**: In federal systems (like India or the US), the judiciary resolves disputes between the central government and state governments, or between two or more state governments, ensuring each stays within its constitutional limits.
+*   **Advisory Functions**: Some supreme courts have an advisory role. The executive branch can seek the court's legal opinion on complex constitutional or legal questions before taking action.
+
+## Essential Conditions for an Independent Judiciary
+An independent judiciary is vital for a functioning democracy. It ensures that justice is administered without fear or favor, free from interference by the executive or legislative branches.
+
+*   **Method of Appointment**: The appointment of judges must be impartial and not entirely controlled by the executive. While the executive may formally appoint judges, the selection process should ideally involve legal experts or an independent collegium to ensure merit-based appointments rather than political patronage.
+*   **Security of Tenure**: Judges must have a secure tenure. They should hold office until a predetermined retirement age. They must not be subject to arbitrary dismissal by the executive.
+*   **Difficult Removal Process**: The process for removing a judge (such as impeachment) should be exceptionally rigorous and difficult. It should require significant majorities in the legislature and only be permissible on grounds of proven misbehavior or incapacity, never for political reasons.
+*   **Adequate and Secure Salaries**: Judges must be paid well enough to attract top legal talent and to ensure they are not susceptible to bribery or financial pressure. Crucially, their salaries and allowances cannot be reduced during their term in office.
+*   **Immunity for Judicial Actions**: Judges must be protected from civil and criminal liability for decisions made or words spoken in the course of their official duties. This allows them to adjudicate without fear of personal repercussions.
+*   **Separation from the Executive**: The judicial branch must be organizationally and financially separate from the executive branch. The executive should not control court administration or the assignment of cases.
+*   **Power to Punish for Contempt**: The judiciary must have the power to punish individuals or authorities who disrespect its authority, disobey its orders, or attempt to interfere with the administration of justice.`},{title:`Q4. Explain separation of power. Describe the concept of checks and balances as applicable in U.S.A.`,content:`## Separation of Powers
+The theory of the Separation of Powers, most famously articulated by the French philosopher Montesquieu, asserts that political liberty is best preserved when the three primary functions of government—legislative, executive, and judicial—are assigned to distinct and independent bodies.
+
+*   **Legislative Power**: The power to make laws.
+*   **Executive Power**: The power to implement and enforce laws.
+*   **Judicial Power**: The power to interpret laws and administer justice.
+
+Montesquieu argued that if these powers are concentrated in the hands of a single individual or a single group, tyranny is inevitable. For example, if the person who makes the laws also enforces them and judges infractions, they could act with absolute, unchecked authority. Therefore, separating these powers into different branches ensures that no single entity becomes too powerful.
+
+## Checks and Balances in the U.S.A.
+While the U.S. Constitution strictly separates the three branches, the Framers recognized that complete separation could lead to branches acting autonomously and potentially abusing their isolated power. Therefore, they instituted a system of "Checks and Balances." This means that while each branch is independent, they are granted specific constitutional powers to intervene in, and check, the actions of the other branches. This creates a balanced system where power counteracts power.
+
+### How the System Works in the US:
+
+*   **Legislative Branch (Congress) vs. Others**:
+    *   *Checking the Executive*: Congress must approve the federal budget and can restrict funding. The Senate must approve presidential appointments (cabinet members, judges) and ratify international treaties. Congress also holds the ultimate power of impeaching and removing the President.
+    *   *Checking the Judiciary*: Congress has the power to create lower federal courts and define their jurisdiction. The Senate must confirm judicial nominees. Congress can also initiate constitutional amendments to overturn Supreme Court decisions.
+
+*   **Executive Branch (The President) vs. Others**:
+    *   *Checking the Legislature*: The President can veto (reject) bills passed by Congress. While Congress can override a veto, it requires a difficult two-thirds majority in both houses. The President can also use the "bully pulpit" to appeal directly to the public to pressure Congress.
+    *   *Checking the Judiciary*: The President has the power to nominate all federal judges, including Supreme Court Justices. The President also has the power to grant pardons for federal crimes, effectively bypassing judicial sentences.
+
+*   **Judicial Branch (The Supreme Court) vs. Others**:
+    *   *Checking the Legislature*: Through the power of Judicial Review, the Supreme Court can declare acts of Congress unconstitutional and therefore void.
+    *   *Checking the Executive*: The Court can also declare executive actions or presidential orders unconstitutional. Chief Justices preside over presidential impeachment trials in the Senate.
+
+### Conclusion
+The American system is not a pure separation of powers, but a complex web of shared and competing powers. This deliberate friction ensures that significant political actions require broad consensus and prevents any one branch from dominating the federal government.`},{title:`Q5. Describe Election Commission of India. Explain role and functions of Election Commission of India.`,content:`## Description of the Election Commission of India
+The Election Commission of India (ECI) is a permanent and independent constitutional body established to ensure free and fair elections in the country. Created under Article 324 of the Indian Constitution, the ECI is the apex authority responsible for administering all electoral processes for the national parliament, state legislatures, and the offices of the President and Vice-President.
+
+### Composition
+The Commission originally consisted of only one Chief Election Commissioner. Today, it is a multi-member body consisting of a Chief Election Commissioner (CEC) and two Election Commissioners (ECs). They are appointed by the President of India. To ensure their independence, the CEC can only be removed from office through a rigorous process of impeachment by Parliament, similar to the removal of a Supreme Court judge.
+
+## Role and Functions of the ECI
+
+The ECI's mandate is vast and covers every aspect of the electoral process. Its functions can be categorized broadly:
+
+### 1. Administrative Functions
+*   **Delimitation of Constituencies**: The ECI determines the territorial boundaries of electoral constituencies across the country based on the latest census data, ensuring equal representation.
+*   **Electoral Rolls**: It prepares, maintains, and periodically updates the electoral rolls (voter lists). It registers all eligible voters and ensures that ineligible or deceased voters are removed.
+*   **Election Schedule**: The ECI has the sole authority to notify the dates and schedules for elections, including the filing of nominations, polling days, and counting days.
+*   **Recognition of Political Parties**: It registers political parties and grants them the status of national or state parties based on their electoral performance.
+*   **Allotment of Symbols**: The ECI allocates unique election symbols to recognized political parties and independent candidates, which is crucial in a country with varying literacy rates.
+
+### 2. Advisory Functions
+*   **Disqualification of Members**: The ECI advises the President or the Governor (in states) on matters relating to the disqualification of sitting members of Parliament or State Legislatures.
+*   **Post-Election Disputes**: While serious disputes go to the High Courts, the ECI advises on post-election matters and administrative irregularities.
+
+### 3. Quasi-Judicial Functions
+*   **Resolving Disputes**: The ECI acts as a tribunal for settling disputes relating to the recognition of political parties and the allotment of election symbols.
+
+### 4. Regulatory and Supervisory Functions (Enforcing the Code)
+*   **Model Code of Conduct (MCC)**: This is perhaps its most visible role. The ECI issues and rigorously enforces the MCC, a set of guidelines for political parties and candidates to ensure a level playing field. It regulates speeches, polling day conduct, and prevents the ruling party from misusing official machinery.
+*   **Monitoring Expenditure**: The ECI sets limits on campaign expenditure and strictly monitors candidate spending to curb the influence of black money in elections.
+*   **Ensuring Free and Fair Polling**: The ECI deploys election observers, central armed police forces, and sets up polling booths to prevent voter intimidation, booth capturing, and rigging.
+*   **Voter Education**: The Commission runs extensive awareness programs (like SVEEP) to educate citizens about the electoral process and encourage high voter turnout.
+
+### Conclusion
+The Election Commission is the bedrock of Indian democracy. Its autonomy and robust execution of its functions have earned it immense credibility, ensuring that the transfer of power in the world's largest democracy remains peaceful and legitimate.`},{title:`Q6. What do you mean by Public Policy? explain any two approaches to the public policy formulation and development?`,content:`## Meaning of Public Policy
+Public policy refers to the broad strategies, decisions, and actions undertaken by a government to address specific societal problems or to achieve defined public goals. It is essentially what a government chooses to do or not to do in response to public issues. 
+
+Public policy is not a single isolated decision but a course of action over time. It is authoritative, meaning it is backed by the legitimate power of the state (often through laws, regulations, or funding). Examples include education policies (like free primary schooling), economic policies (like taxation rates), and environmental policies (like pollution control regulations). The ultimate goal of public policy is to enhance the public interest and resolve collective challenges.
+
+## Approaches to Public Policy Formulation
+
+Policy formulation is the process of developing proposed courses of action to solve a public problem. Various theoretical approaches explain how this complex process happens. Two prominent approaches are the Institutional Approach and the Systems Approach.
+
+### 1. The Institutional Approach
+This approach focuses heavily on the formal institutions of government as the primary creators and drivers of public policy. 
+
+*   **Core Concept**: Policy is viewed strictly as the output of governmental institutions—the legislature, executive, and judiciary. This approach argues that public policy does not exist until it is adopted, implemented, and enforced by a state institution. 
+*   **Focus on Structure**: Institutionalism emphasizes the formal structures, legal rules, constitutional provisions, and procedural norms that govern how these institutions operate. It examines how a bill becomes a law, how a bureaucracy is organized, and how courts interpret regulations.
+*   **Characteristics of State Policy**: The approach highlights that once a policy is institutionalized, it gains three specific characteristics: 
+    *   *Legitimacy*: It is legally binding on all citizens.
+    *   *Universality*: It applies to everyone within the society.
+    *   *Coercion*: The state can legitimately use force (like fines or imprisonment) to ensure compliance.
+*   **Limitations**: Traditional institutionalism was often criticized for being too descriptive. It focused too much on the formal "rules of the game" and not enough on the dynamic political realities, informal power struggles, or the influence of outside interest groups that shape the actual policy decisions within those institutions.
+
+### 2. The Systems Approach (David Easton's Model)
+Pioneered by political scientist David Easton, this approach views the political system as a biological organism interacting with its environment. 
+
+*   **Core Concept**: Public policy is seen as the "response" of the political system to demands arising from its environment. 
+*   **The Mechanism (Inputs and Outputs)**: 
+    *   *Environment*: The broader society, economy, and culture.
+    *   *Inputs*: The environment generates "inputs" in the form of *Demands* (citizens wanting better roads, lower taxes) and *Supports* (citizens paying taxes, obeying laws, voting).
+    *   *The Black Box (Political System)*: These inputs enter the political system (the government machinery), which acts as a "black box" where politicians and bureaucrats process these demands.
+    *   *Outputs*: The political system converts these demands into "outputs," which are the public policies and authoritative decisions.
+*   **Feedback Loop**: Crucially, the approach includes a feedback mechanism. The outputs (policies) impact the environment, creating new conditions which in turn generate new inputs (new demands or changes in support). For example, a new tax policy (output) affects the economy (environment), which leads to citizen protests or approval (new inputs).
+*   **Strengths**: This approach is highly dynamic. It excellently illustrates the continuous, cyclical nature of policymaking and highlights the crucial relationship between societal pressures and government action.`},{title:`Q7. Discuss the importance of Political Parties. Also explain the Functions performed by political parties.`,content:`## Importance of Political Parties
+Political parties are the lifeblood of modern representative democracy. Without them, the democratic process would be chaotic and largely unmanageable. They are the essential link between the citizenry and the complex machinery of government. 
+
+They are important because they organize the electorate, simplify political choices, and provide a structured mechanism for capturing and exercising political power. By aggregating millions of diverse opinions into coherent policy platforms, they make mass democracy viable. They transform disorganized public sentiment into actionable public policy.
+
+## Functions of Political Parties
+
+Political parties perform several vital functions that sustain the democratic system:
+
+*   **Contesting Elections**: This is the primary function. Parties select candidates, provide them with organizational and financial backing, and campaign on their behalf. They present voters with a structured choice of leadership.
+*   **Formulating Policies and Programs**: Parties develop comprehensive manifestos and platforms. They synthesize diverse public demands into a cohesive set of policy proposals, offering voters distinct alternatives for governing the country (e.g., higher taxes for social welfare vs. lower taxes for market growth).
+*   **Forming and Running the Government**: The party that wins the majority in the legislature forms the executive government. They supply the leaders (Ministers, Prime Minister) who direct the state apparatus and implement their proposed policies.
+*   **Playing the Role of the Opposition**: The parties that do not win form the opposition. Their function is crucial: they scrutinize the ruling party's actions, criticize its failures, highlight alternative policies, and hold the government accountable, preventing the ruling majority from becoming dictatorial.
+*   **Shaping Public Opinion**: Parties actively educate and mobilize the public. Through speeches, rallies, debates, and media campaigns, they highlight important national issues, shape public discourse, and help form public opinion on complex topics.
+*   **Providing Access to Government Machinery**: For the ordinary citizen, the local party leader or representative is often the most accessible point of contact with the government bureaucracy. Parties help citizens navigate government schemes and voice local grievances.
+*   **Political Recruitment and Socialization**: Parties recruit individuals into the political system, train them, and elevate them to leadership positions. They also play a role in socializing citizens into the democratic culture by encouraging participation.`},{title:`Q8. Explain meaning of Legislature. Describe the functions of legislature as one of the important organ of government in detail.`,content:`## Meaning of Legislature
+The legislature is the law-making organ of the government. In a democracy, it is the primary representative assembly, composed of individuals elected by the citizens. It acts as the deliberative body where national issues are debated and the collective will of the people is translated into statutory law. 
+
+In a parliamentary system (like India or the UK), it is the supreme organ, as the executive is drawn from and accountable to it. Examples include the Parliament in India (Lok Sabha and Rajya Sabha) and the Congress in the USA (House of Representatives and Senate).
+
+## Functions of the Legislature
+
+While law-making is its primary role, a modern legislature performs a wide array of indispensable functions:
+
+*   **Legislative (Law-making) Function**: This is its core duty. The legislature debates, drafts, enacts, amends, and repeals laws. It is the only body with the authority to establish the legal framework that governs the state and its citizens. 
+*   **Control over the Executive**: 
+    *   *In Parliamentary Systems*: This control is absolute. The legislature holds the executive accountable daily through Question Hour, Adjournment Motions, and debates. Crucially, it can remove the government from power at any time by passing a "Vote of No Confidence."
+    *   *In Presidential Systems*: Control is exercised through checks and balances, such as the power to approve executive appointments and ratify treaties.
+*   **Financial Control (The Power of the Purse)**: The legislature holds the ultimate financial authority. The executive cannot raise taxes or spend public money without the explicit legislative approval. It scrutinizes and passes the annual national budget, ensuring public funds are spent appropriately.
+*   **Constituent Function**: The legislature usually possesses the power to amend the constitution. While ordinary laws can be changed easily, constitutional amendments typically require special majorities within the legislature, reflecting its role as the guardian of the nation's foundational document.
+*   **Electoral Functions**: Legislatures often have a role in electing key state officials. For example, the Indian Parliament participates in the election of the President and the Vice-President.
+*   **Judicial Functions**: In many systems, the legislature acts as a high court for specific constitutional matters. It has the power to impeach and remove high-ranking officials, including the President, Vice-President, or Supreme Court Judges, for grave misconduct.
+*   **Deliberative Function**: It serves as the highest forum for national debate. It is a platform where representatives voice the grievances of their constituents, discuss national and international policies, and reflect the diverse opinions of the electorate.`},{title:`Q9. Describe Meaning, Features, Merits and Demerits of federal form of government.`,content:`## Meaning
+A federal form of government is a political system where power is constitutionally divided and shared between a central national government and multiple regional/state governments. Both levels of government possess their own independent spheres of authority and operate directly upon the people. It is a dual government system, designed to balance the need for a strong, unified nation with the desire for regional autonomy and diversity. India, the USA, Canada, and Australia are prominent examples.
+
+## Key Features
+
+*   **Dual Government**: The existence of two distinct levels of government—the central (federal) government dealing with national issues, and the state (provincial) governments managing local affairs.
+*   **Written and Rigid Constitution**: A federation absolutely requires a written constitution to explicitly define and demarcate the powers of both levels of government. This constitution must be 'rigid,' meaning neither the center nor the states can unilaterally alter the fundamental division of powers.
+*   **Division of Powers**: The constitution explicitly lists the powers belonging to the center (e.g., defense, foreign affairs, currency) and those belonging to the states (e.g., police, public health, local government).
+*   **Supremacy of the Constitution**: The constitution is the supreme law of the land. All authorities, both central and state, derive their power from it and must act within its limits.
+*   **Independent Judiciary**: A strong, independent, and impartial judiciary (usually a Supreme Court) is essential. It acts as the umpire to resolve inevitable disputes between the central government and the states regarding their respective jurisdictions and powers.
+
+## Merits
+
+*   **Suitable for Large and Diverse Countries**: It is the ideal system for vast nations with diverse cultural, linguistic, and geographic regions. It allows these diverse groups to unite for strength while retaining autonomy over their local culture and affairs.
+*   **Prevents Despotism**: By decentralizing power, federalism prevents the concentration of absolute authority in a single central government, thereby protecting democratic liberties.
+*   **Local Governance and Efficiency**: State governments are closer to the people and understand local problems better than a distant central authority. This leads to more efficient administration and policies tailored to local needs.
+*   **Political Experimentation**: States can act as "laboratories of democracy." A single state can experiment with a novel social or economic policy without risking the entire nation. If successful, other states can adopt it.
+*   **Economic Strength with Local Autonomy**: It provides the economic and military advantages of a large nation (a unified market, strong defense) without sacrificing local self-governance.
+
+## Demerits
+
+*   **Complexity and Conflict**: The dual system of administration is inherently complex. Overlapping jurisdictions frequently lead to legal disputes and friction between the center and the states, or between states themselves.
+*   **Weakness in Emergencies**: Because power is divided and decision-making requires consensus between levels of government, federations can sometimes be slow to respond to rapid national crises or emergencies compared to unitary states.
+*   **Uneven Development**: State autonomy can lead to significant disparities in wealth, public services, and development. Richer states may thrive while poorer states lag behind, creating national inequality.
+*   **Expensive Government**: Maintaining two parallel sets of government machinery (two legislatures, two executives, etc.) makes the federal system financially expensive to run.
+*   **Threat to National Unity**: If state loyalties become too strong, or if regional differences are exacerbated, it can fuel separatist movements and threaten the integrity and unity of the nation.`}]},{id:`summer-2025`,title:`Summer 2025`,questions:[{title:`Q1. Short Notes`,content:``},{title:`(a) Judicial Activism`,content:`**Introduction**
 Judicial Activism refers to the proactive role played by the judiciary in protecting the rights of citizens and promoting justice in the society. It implies that the judiciary steps beyond its traditional role of merely interpreting the law and takes an active part in shaping public policy and ensuring that the executive and legislature fulfill their constitutional obligations.
 
 **Key Features and Meaning**
